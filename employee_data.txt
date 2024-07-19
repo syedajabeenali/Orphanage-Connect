@@ -1,0 +1,7 @@
+Muhammad Farhan,40,Male,House no.456 Elm Street,Hassan Ali,Manager,C:\Users\syeda jabeen ali\OneDrive\Documents\OurProject\Employee_pic1.png
+Maha Mudassir,37,Male,House no.789 Oak Street,Muhammad Ahmed,Designer,C:\Users\syeda jabeen ali\OneDrive\Documents\OurProject\Employee_femalepic1.png
+Maheen Ali,25,Female,321 Pine St.,farhan Ali,Tutor,C:\Users\syeda jabeen ali\OneDrive\Documents\OurProject\Employee_femalepic2.png
+Alisha Zaidi,24,Female,321 Abdullah Street,Safdar Zaidi,Tutor,C:\Users\syeda jabeen ali\OneDrive\Documents\OurProject\Employee_femalepic3.png
+Jawad Akber,31,Male,Sector C House no. 228,Muhammad Nasir,CareTaker,C:\Users\syeda jabeen ali\OneDrive\Documents\OurProject\Employee_malePic2.png
+Imran Qamar,45,Male,House no. 45_B Abdullah Street,Rehman Qamar,Accountant,C:\Users\syeda jabeen ali\OneDrive\Documents\OurProject\Employee_malepic3.png
+Daniya Shahbaz,27,Female,34-A walton,Sajad Naqvi,Tutor,C:\Users\syeda jabeen ali\OneDrive\Documents\OurProject\employee_femalepic4.png

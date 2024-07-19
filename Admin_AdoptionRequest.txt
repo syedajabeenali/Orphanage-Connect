@@ -1,0 +1,5 @@
+John,Doe,3,Married,75000,123 Main St,2000
+Alice,Smith,2,Single,60000,456 Elm St,1500
+Michael,Johnson,4,Married,80000,789 Oak St,1800
+Emily,Williams,1,Single,55000,987 Pine St,1200
+David,Brown,2,Married,70000,654 Cedar St,1600

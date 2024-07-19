@@ -1,0 +1,4 @@
+#ifndef OPHANGECONTACT_H
+#define OPHANGECONTACT_H
+
+#endif // OPHANGECONTACT_H

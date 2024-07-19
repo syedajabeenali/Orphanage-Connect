@@ -1,0 +1,18 @@
+Rank: Director
+Name: John Doe
+Zip: 12345
+Phone: 555-1234
+Email: johndoe@example.com
+
+Rank: Supervisor
+Name: Jane Smith
+Zip: 67890
+Phone: 555-5678
+Email: janesmith@example.com
+
+Rank: Coordinator
+Name: Michael Johnson
+Zip: 13579
+Phone: 555-9876
+Email: michael@example.com
+
