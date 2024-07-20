@@ -1,0 +1,7 @@
+C:/Users/user/Documents/dmj/gg.jpg
+Total amount,100000$
+Food, 5000$
+Clothing, 2000$
+Education, 30000$
+Health, 4000$
+Other, 1500$

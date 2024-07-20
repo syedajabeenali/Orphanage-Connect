@@ -10,31 +10,41 @@ CONFIG += c++17
 #DEFINES += QT_DISABLE_DEPRECATED_BEFORE=0x060000    # disables all the APIs deprecated before Qt 6.0.0
 
 SOURCES += \
-    WelcomeWindow.cpp \
-    Login.cpp \
     AccountCreationwindow.cpp \
     AdminHomePage.cpp \
-    ClickableLabel.cpp \
-    UserHomePage.cpp \
-    EmployeesInfoWindow.cpp \
-    OrphanRegistrationForm.cpp \
-    OrphansInfoWindow.cpp \
     AdminManageDonations.cpp \
     Admin_AdoptionRequest.cpp \
+    ClickableLabel.cpp \
+    ContactWindow.cpp \
+    EmployeesInfoWindow.cpp \
+    Login.cpp \
+    OrphanRegistrationForm.cpp \
+    OrphansInfoWindow.cpp \
+    UserAdoptionForm.cpp \
+    UserDonationForm.cpp \
+    UserHomePage.cpp \
+    User_OrphansInfoWindow.cpp \
+    WeeklySportsActivities.cpp \
+    WelcomeWindow.cpp \
     main.cpp
 
 HEADERS += \
-    WelcomeWindow.h \
-    Login.h \
     AccountCreationWindow.h \
     AdminHomePage.h \
-    ClickableLabel.h \
-    UserHomePage.h \
     AdminManageDonations.h \
     Admin_AdoptionRequest.h \
+    ClickableLabel.h \
+    ContactWindow.h \
     EmployeesInfoWindow.h \
+    Login.h \
     OrphanRegistrationForm.h \
-    OrphansInfoWindow.h
+    OrphansInfoWindow.h \
+    UserAdoptionForm.h \
+    UserHomePage.h \
+    User_OrphansInfoWindow.h \
+    UserdonationForm.h \
+    WeeklySportsActivities.h \
+    WelcomeWindow.h
 
 FORMS += \
     MainWindow.ui
