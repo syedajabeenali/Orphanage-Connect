@@ -18,8 +18,14 @@ release/main.o
 release/qrc_Resoources.o
 release/moc_AccountCreationWindow.o
 release/moc_AdminHomePage.o
+release/moc_AdminManageDonations.o
+release/moc_Admin_AdoptionRequest.o
 release/moc_ClickableLabel.o
+release/moc_ContactWindow.o
+release/moc_EmployeesInfoWindow.o
 release/moc_Login.o
+release/moc_OrphanRegistrationForm.o
+release/moc_OrphansInfoWindow.o
 release/moc_UserAdoptionForm.o
 release/moc_UserHomePage.o
 release/moc_User_OrphansInfoWindow.o

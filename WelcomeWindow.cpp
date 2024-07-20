@@ -98,20 +98,20 @@ MainWindow::MainWindow(QWidget *parent) : QMainWindow(parent)
 
     centralWidget->setLayout(layout);
 
-    // Connect the button's clicked signal to a slot that opens the Login window
-    connect(button, &QPushButton::clicked, this, &MainWindow::openLoginWindow);
-    // Connect the back button's clicked signal to a slot that handles going back
-    connect(backButton, &QPushButton::clicked, this, &MainWindow::goBack);
+    // // Connect the button's clicked signal to a slot that opens the Login window
+    // connect(button, &QPushButton::clicked, this, &MainWindow::openLoginWindow);
+    // // Connect the back button's clicked signal to a slot that handles going back
+    // connect(backButton, &QPushButton::clicked, this, &MainWindow::goBack);
 }
 
-void MainWindow::openLoginWindow()
-{
-    QPoint currentPos = this->pos();
-    close();
-    Login *login = new Login();
-    login->move(currentPos);
-    login->show();
-}
+// void MainWindow::openLoginWindow()
+// {
+//     QPoint currentPos = this->pos();
+//     close();
+//     Login *login = new Login();
+//     login->move(currentPos);
+//     login->show();
+// }
 
 void MainWindow::goBack()
 {

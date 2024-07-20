@@ -1,0 +1,5 @@
+John Doe,Male,Manager,123 Main St.,John's Dad,5000,C:\Users\syeda jabeen ali\OneDrive\Documents\OurProject\OrphanPic1.jpg
+Jane Smith,Female,Engineer,456 Elm St.,Jane's Dad,6000,C:\Users\syeda jabeen ali\OneDrive\Documents\OurProject\OrphanPic2.jpg
+Mike Johnson,Male,Developer,789 Oak St.,Mike's Dad,5500,C:\Users\syeda jabeen ali\OneDrive\Documents\OurProject\OrphanPic3.jpg
+Emily Davis,Female,Designer,321 Pine St.,Emily's Dad,7000,C:\Users\syeda jabeen ali\OneDrive\Documents\OurProject\OrphanPic4.jpg
+
