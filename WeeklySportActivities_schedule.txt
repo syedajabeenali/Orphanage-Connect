@@ -1,6 +1,0 @@
-Monday: Sport Name = Basketball, Time = 5:00 PM - 7:00 PM, Venue = Central Park Basketball Court,  Come join us for some intense matches!
-Tuesday: Sport Name = Soccer, Time =  4:00 PM - 6:00 PM, Venue = City Stadium Soccer Field, Kick off your evening with some friendly competition!
-Wednesday: Sport Name = Tennis, Time = 6:30 PM - 8:30 PM, Venue = Riverside Tennis Club, Swing by and enjoy some backhand action!
-Thursday: Sport Name = Swimming, Time = 5:30 PM - 7:30 PM, Venue = Community Pool Center, Dive into the pool and join us for a refreshing swim!
-Friday: Sport Name = Volleyball, Time = 7:00 PM - 9:00 PM, Venue = Beachfront Volleyball Court, Spike your way into the weekend with our volleyball games!
-Saturday: Sport Name = Golf, Time =  9:00 AM - 12:00 PM, Venue = Green Meadows Golf Course, Tee off your weekend mornings with a round of golf!

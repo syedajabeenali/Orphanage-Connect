@@ -1,5 +1,0 @@
-Irtaza Hassan,irtazahassan@gmail.com,15000,Credit Card,None
-Jabeen Ali,syedajabeen313,15000,Credit Card,None
-Hassan,habbas@gmail.com,150000,Credit Card,None
-mirfaq,mirfaq@gmail.com,5000,Credit Card,none
-Jabeen,jabeen313@gmal.com,50000,Paypal,None
