@@ -117,6 +117,8 @@ void MainWindow::goBack()
 {
     // Close the current window
     this->close();
+
+
 }
 
 MainWindow::~MainWindow()
