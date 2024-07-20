@@ -48,17 +48,17 @@ MainWindow::MainWindow(QWidget *parent) : QMainWindow(parent)
     // Create the "Get Started" button
     button = new QPushButton("Get Started", this);
     button->setStyleSheet("QPushButton {"
-                                "background-color: #800000;" // Dark red background color
-                                "color: white;" // White text color
-                                "border: 2px solid #800000;" // Dark red border
-                                "border-radius: 5px;" // Rounded corners
-                                "}"
-                                "QPushButton:hover {"
-                                "background-color: #a52a2a;" // Lighter red when hovered
-                                "}"
-                                "QPushButton:pressed {"
-                                "background-color: #5f0000;" // Darker red when pressed
-                                "}");
+                          "background-color: #800000;" // Dark red background color
+                          "color: white;" // White text color
+                          "border: 2px solid #800000;" // Dark red border
+                          "border-radius: 5px;" // Rounded corners
+                          "}"
+                          "QPushButton:hover {"
+                          "background-color: #a52a2a;" // Lighter red when hovered
+                          "}"
+                          "QPushButton:pressed {"
+                          "background-color: #5f0000;" // Darker red when pressed
+                          "}");
 
     // Add arrow icon to the button
     QIcon icon("C:/Users/syeda jabeen ali/OneDrive/Documents/OurProject/forward_arrow.png");
@@ -98,29 +98,25 @@ MainWindow::MainWindow(QWidget *parent) : QMainWindow(parent)
 
     centralWidget->setLayout(layout);
 
-    // // Connect the button's clicked signal to a slot that opens the Login window
-    // connect(button, &QPushButton::clicked, this, &MainWindow::openLoginWindow);
-    // // Connect the back button's clicked signal to a slot that handles going back
-    // connect(backButton, &QPushButton::clicked, this, &MainWindow::goBack);
+    // Connect the button's clicked signal to a slot that opens the Login window
+    connect(button, &QPushButton::clicked, this, &MainWindow::openLoginWindow);
+    // Connect the back button's clicked signal to a slot that handles going back
+    connect(backButton, &QPushButton::clicked, this, &MainWindow::goBack);
 }
 
-// void MainWindow::openLoginWindow()
-// {
-//     QPoint currentPos = this->pos();
-//     close();
-//     Login *login = new Login();
-//     login->move(currentPos);
-//     login->show();
-// }
+void MainWindow::openLoginWindow()
+{
+    QPoint currentPos = this->pos();
+    close();
+    Login *login = new Login();
+    login->move(currentPos);
+    login->show();
+}
 
 void MainWindow::goBack()
 {
     // Close the current window
     this->close();
-
-    // // Open the previous window (e.g., Welcome window)
-    // WelcomeWindow *welcomeWindow = new WelcomeWindow;
-    // welcomeWindow->show();
 }
 
 MainWindow::~MainWindow()
