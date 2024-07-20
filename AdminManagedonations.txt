@@ -1,3 +1,0 @@
-Abdullah Javaid,abdullahjavaid@example.com,100,paypal,lahore
-Kamran Akbar,kamranakbar@example.com,200,bank,faislabad
-Michael Johnson,michaeljohnson@example.com,150,visa card,skp

@@ -1,6 +1,0 @@
-Total Amount: 1000000$
-Food: 50000$
-Clothing: 2000$
-Education: 3000$
-Other: 1500$
-C:\Users\syeda jabeen ali\OneDrive\Documents\OurProject\ExpenditurePic.jpg
