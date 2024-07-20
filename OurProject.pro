@@ -16,6 +16,11 @@ SOURCES += \
     AdminHomePage.cpp \
     ClickableLabel.cpp \
     UserHomePage.cpp \
+    EmployeesInfoWindow.cpp \
+    OrphanRegistrationForm.cpp \
+    OrphansInfoWindow.cpp \
+    AdminManageDonations.cpp \
+    Admin_AdoptionRequest.cpp \
     main.cpp
 
 HEADERS += \
@@ -24,7 +29,12 @@ HEADERS += \
     AccountCreationWindow.h \
     AdminHomePage.h \
     ClickableLabel.h \
-    UserHomePage.h
+    UserHomePage.h \
+    AdminManageDonations.h \
+    Admin_AdoptionRequest.h \
+    EmployeesInfoWindow.h \
+    OrphanRegistrationForm.h \
+    OrphansInfoWindow.h
 
 FORMS += \
     MainWindow.ui
